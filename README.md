@@ -18,12 +18,15 @@ This repository contains a machine learning project that uses a Recurrent Neural
    git clone https://github.com/DataWhizEngineer/SimpleRNN_IMDB
    
 2. **Navigate to the Project Directory**:
+   ```bash
    cd DataWhizEngineer
 
-3. **Install the Required Dependencies**:
+4. **Install the Required Dependencies**:
+   ```bash
    pip install -r requirements.txt
   
-5. **Run the Application**:
+6. **Run the Application**:
+   ```bash
    python app.py
 
    
